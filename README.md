@@ -3,7 +3,7 @@ This is a RESTful API that allows clients to send income and expense data.
 
 ## Development
 
-1. git clone this repository
+1.git clone this repository
 
 2.cd into the local repository
 
@@ -15,6 +15,6 @@ This is a RESTful API that allows clients to send income and expense data.
 
 6.Flask Shell > from app import db > db.create_all()
 
-7. python app.py
+7.python app.py
 
 
