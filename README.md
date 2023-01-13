@@ -3,7 +3,6 @@ This is a RESTful API that allows clients to send income and expense data.
 
 ## Development
 
-
 1. git clone this repository
 
 2.cd into the local repository
