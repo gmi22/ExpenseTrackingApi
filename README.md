@@ -9,7 +9,6 @@ GET /income - This endpoint retrieves all the income data that was previously su
 
 GET /expense - This endpoint retrieves all the expense data that was previously submitted to the API.
 
-GET /report - This endpoint allows the client to retrieve a report of the income and expense data.
 
 
 The response from the API will be in JSON format, and the HTTP status code of the response will indicate the success or failure of the operation.
